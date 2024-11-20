@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @bajishaikh30
+- 👋 Hi, I’m @bajishaikh18
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently pursuing my under graduation
 - 💞️ I’m looking to collaborate on Machine Learning
